@@ -28,3 +28,4 @@ jobs:
           python create_release.py
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          
